@@ -1,0 +1,11 @@
+body {
+    font-family: Tahoma, Geneva, Kalimati, sans-serif;
+}
+
+#likeButton {
+    color: #3B59B0;
+}
+
+#likeButton:hover {
+    cursor: pointer;
+}
